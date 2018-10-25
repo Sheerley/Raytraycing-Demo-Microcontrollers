@@ -1,15 +1,4 @@
 /*
-Raytracing on ILI9341 2.2" TFT LCD display
-ported to regular Arduino, generic STM32 board ("blue pill") and ESP8266 NodeMCU V1
-Pawel A. Hernik, 2016
-Raytracing code found in the internet and adapted for my tests
-
-Source code for my YouTube videos:
-https://www.youtube.com/watch?v=RD5VO8o9bD4
-https://www.youtube.com/watch?v=H9uUO-UQtzE
-*/
-
-/*
 CONNECTIONS:
 ------------
 STM32:
